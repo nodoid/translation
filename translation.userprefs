@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{5A84EBD1-98AC-4F81-AAC9-2F149C96FA95}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="translation/Languages/Langs_DE.Designer.cs">
+    <Files>
+      <File FileName="translation/Translate.cs" Line="33" Column="1" />
+      <File FileName="translation/Languages/Langs_de.resx" Line="23" Column="8" />
+      <File FileName="translation/Languages/Langs.resx" Line="20" Column="28" />
+      <File FileName="translation/Languages/Langs_DE.Designer.cs" Line="33" Column="128" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/PFJ/Developer/translation/translation/Translate.cs" line="33" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.translation.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.733E2AF2-40BF-4F3A-8402-FC4A872F40E9" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,8 @@
+packages/
+translation/bin/*
+translation/obj/*
+iOS/bin/*
+iOS/obj/*
+Droid/bin/*
+Droid/obj/*
+
